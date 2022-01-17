@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi<img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="47" height="47" bottom: 200px alt="Waving Hi GIF - Waving Hi Hello GIFs" style="max-width: 367px;"> I'm Satyam <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475fjodgd4a0p0b0f1oqfts51z64982pwf9bs5fyz0&rid=giphy.gif&ct=g" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 50px; height: 28.25px; left: 0px; top: 10px; opacity: 0;"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p>
+<img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47lyhfkfmt5z0agyszxbv2vulfcmgf1o794ifo8pvw&rid=giphy.gif&ct=g" alt="Woman Coding GIF by Pluralsight" style=" width: 500px; height: 281.25px; left: 200px; top: 0px; opacity: 0;  ">
 
 - 🔭 I’m currently working on **Web development and Competitive programming..**
 
