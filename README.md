@@ -1,3 +1,5 @@
+![logo](https://github.com/Satyam868910/satyam868910/blob/main/INFORMATION%20TECHNOLOGY.png)
+
 <h1 align="center">Hi<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="47" height="47" bottom: 200px alt="Waving Hi GIF - Waving Hi Hello GIFs" style="max-width: 367px;"> I'm Satyam </h1>
 <h3 align="center"> A Passionate From India </h3>
 
