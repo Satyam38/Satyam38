@@ -1,4 +1,4 @@
-![logo](https://github.com/Satyam868910/satyam868910/blob/main/logo.png)
+<!-- ![logo](https://github.com/Satyam868910/satyam868910/blob/main/logo.png) -->
 
 
 <hr>
