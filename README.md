@@ -1,40 +1,58 @@
-<!-- ![logo](https://github.com/Satyam868910/satyam868910/blob/main/logo.png) -->
 
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=satyam868910&style=flat-square&color=blue" alt=""></p>
 
-<hr>
-
- <h1 align="center">
+ <h1 align="left">
  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=1000&color=F7D81D&background=B7FFD800&multiline=true&width=563&height=65&lines=+.+.+.+.+Hello+I'm+satyam+.+.+.+." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=1000&color=F7D81D&background=B7FFD800&multiline=true&width=563&height=65&lines=Hello+I'm+satyam+.+.+.+." alt="Typing SVG" /></a>
 </h1>
-
-
 <h4 align="center"> A Passionate about Programming and django developer From India </h4>
 
-<img align= "right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p>
+<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
+  
+### :woman_technologist: &nbsp;About Me :
 
+- 🔭 I am  working as a Django <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Competitive programming..
 
-- 🔭 I’m currently working on ** django and Competitive programming..**
+- ⚡ In my free time I solve problems on GeeksforGeeks , Leetcode and somtime coodechef.
 
-- 👯 I am currently pursing **Btech degree in Information Technology**
-
-- 💬 **"-->Nothing Happens Unless First We Dream<--".**
+- 💬 **" Nothing Happens Unless First We Dream "**
 
 - ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Satyam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-57612221a/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-57612221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-57612221a" height="30" width="40" /></a>
-<a href="https://instagram.com/satyam_67680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_67680" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/satyam173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyam173" height="30" width="40" /></a>
-</p>
+ <h2 align="center">Skills</h2>
+<div align="center"><br> 
  
+ <img  align="center" title="Javascript" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"  alt="Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ <img align="center" title="Javascript" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"  alt="Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ <img align="center" title="Javascript" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"  alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" title="Node JS" href="https://nodejs.org/en/" alt="nodejs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355">
+ <img align="center" title="React" href="https://reactjs.org/" alt="React" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207">
+ <img align="center" title="Angular" href="https://angular.io/" alt="Angular" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+ <img align="center" title="HTML" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+ <img align="center" title="CSS" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+ <img align="center" title="Python" href="https://www.python.org/" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+ <img align="center" title="MySQL" href="https://www.mysql.com/" alt="mysql" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+ <img align="center" title="Tailwind CSS" href="https://tailwindcss.com/" alt="tailwind" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333">
  
+ <img align="center" title="Git" href="https://git-scm.com/" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+</div><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam38&show_icons=true&theme=dracula&locale=en" alt="Satyam38" /></p>
+<div align="center"> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamchoudhary25102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ </div><br>
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam38&theme=dark" alt="Satyam38" /></p>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
