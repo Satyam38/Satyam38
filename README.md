@@ -10,8 +10,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=1000&color=F7D81D&background=B7FFD800&multiline=true&width=563&height=65&lines=Hello+I'm+satyam+.+.+.+." alt="Typing SVG" /></a>
 </h1>
 <h4 align="center"> A Passionate about Programming and django developer From India </h4>
-
-<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
   
 ### :woman_technologist: &nbsp;About Me :
