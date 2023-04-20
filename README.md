@@ -2,13 +2,15 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://satyam-choudhary.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=Website&logoColor=Red" alt="LinkedIn Badge"></a>
+<a href="https://satyam-choudhary.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
+<a href="https://leetcode.com/coder_173/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"></a>
 </p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=satyam868910&style=flat-square&color=blue" alt=""></p>
 
  <h1 align="left">
  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=1000&color=F7D81D&background=B7FFD800&multiline=true&width=563&height=65&lines=Hello+I'm+satyam+.+.+.+." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=1000&color=F7D81D&background=B7FFD800&multiline=true&width=563&height=65&lines=Hello+I'm+satyam+Coder.+.+.+." alt="Typing SVG" /></a>
 </h1>
 <h4 align="center"> A Passionate about Programming and django developer From India </h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -46,6 +48,8 @@
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamchoudhary25102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ <a href="https://satyam-choudhary.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
+<a href="https://leetcode.com/coder_173/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"></a>
  </div><br>
   
 
