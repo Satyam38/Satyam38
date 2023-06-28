@@ -2,7 +2,7 @@
 <p align="center"><img src="gudda1(1).png" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://satyam12.netlify.app"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
+<a href="https://satyam21.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
 <a href="https://leetcode.com/coder_173/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"></a>
 </p>
 
@@ -48,7 +48,7 @@
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamchoudhary25102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
- <a href="https://satyam12.netlify.app"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
+ <a href="https://satyam21.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
 <a href="https://leetcode.com/coder_173/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"></a>
  </div><br>
   
