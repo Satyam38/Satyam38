@@ -9,6 +9,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=satyam868910&style=flat-square&color=blue" alt=""></p>
 
  <h1 align="left">
+<img align="right" alt="Coding" width="100" src="qr.png">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+%E2%9C%8C%EF%B8%8FI+am+Satyam+coder+%F0%9F%98%88." alt="Typing SVG" /></a>
 </h1>
 <h4 align="center"> A Passionate about Programming and django developer From India </h4>
