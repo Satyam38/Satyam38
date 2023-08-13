@@ -12,21 +12,22 @@
 <img align="right" alt="Coding" width="100" src="qr.png">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+%E2%9C%8C%EF%B8%8FI+am+Satyam+coder+%F0%9F%98%88." alt="Typing SVG" /></a>
 </h1>
-<h4 align="center"> A Passionate about Programming and django developer From India </h4>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+ <br>
+<img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
   
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I am  working as a Django <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Competitive programming..
+ 👩‍🎓 I'm a Final year IT student at AITH.
+ 
+ 🐱 I'm 21 y/o, go by he/him pronouns.
 
-- ⚡ In my free time I solve problems on GeeksforGeeks , Leetcode and somtime coodechef.
+ ⚡ I'm a highly skilled web developer with expertise in React.js and Node.js, combined with
+     strong knowledge of Data Structures and Algorithms.
 
-- 💬 **" Nothing Happens Unless First We Dream "**
+ ⭐ Besides all that I love to drive and listen to music.
 
-- ⚡ Fun fact **I think I am funny**
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Satyam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-57612221a/)
-
+ ⚡ Constantly learning. I'm very interested in Open Source!
 
  <hr>
 
@@ -147,8 +148,9 @@
   <hr>
 
 
-<div align="center">
-
+<div style="margin-top:10px"align="center">
+ <h2 align="center" >Just a Snake 🐍 Eating away my Contributions...😭</h2>
+ 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
