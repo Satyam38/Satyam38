@@ -9,14 +9,14 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=satyam868910&style=flat-square&color=blue" alt=""></p>
 
  <h1 align="left">
-<img align="right" alt="Coding" width="100" src="qr.png">
+<!-- <img align="right" alt="Coding" width="100" src=""> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+%E2%9C%8C%EF%B8%8FI+am+Satyam+coder+%F0%9F%98%88." alt="Typing SVG" /></a>
 </h1>
  <br>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
   
-### :woman_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
  👩‍🎓 I'm a Final year IT student at AITH.
  
