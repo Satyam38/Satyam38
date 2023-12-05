@@ -1,7 +1,7 @@
 
 <p align="center"><img src="gudda1(1).png" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/satyam-57612221a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/satyam173/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://satyam21.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
 <a href="https://leetcode.com/coder_173/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"></a>
 </p>
