@@ -23,7 +23,11 @@
 </a>
 </h1>
  <br>
-<img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<video align="right" width="330px" height="300px" autoplay loop muted playsinline>
+  <source src="https://github.com/Satyam38/Satyam38/raw/main/video_1.mp4" type="video/mp4">
+</video>
+<!-- <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
   
 ### &nbsp;About Me :
