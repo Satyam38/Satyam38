@@ -24,32 +24,27 @@
 </h1>
  <br>
 
-<table>
+<div align="center">
+
+<table align="center" width="90%" style="border-collapse: collapse;">
 <tr>
 
-<!-- LEFT SIDE (About Me) -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 0; padding: 20px;">
 
 <strong>About Me :</strong>
 
-
+<br><br>
 
 💻 Web Developer @ EduPlanet 🚀  
-
 ⚡ Crafting scalable apps with <b>React.js & Node.js</b>  
-
 🧠 DSA enthusiast & problem solver  
-
 🏆 CodeChef 4⭐ | AIR 165 – Coding Ninjas World Cup  
-
 🌍 Open Source Explorer | Lifelong Learner  
-
 🎧 Music + Long Drives = Peace 🚗
 
 </td>
 
-<!-- RIGHT SIDE (ASCII DESIGN) -->
-<td width="50%" align="center">
+<td width="50%" align="center" style="border: 0; padding: 20px;">
 
 <pre>
             _____________________________
@@ -57,7 +52,7 @@
           /     💻 DEVELOPMENT MODE    / |
          /____________________________/  |
         |                            |   |
-        |   👨‍💻 Satyam @ work         |   |
+        |   👨‍💻 Satyam @ EduPlanet   |   |
         |   ───────────────────      |   |
         |   > initializing app...   |   |
         |   > compiling code... ⚙️  |   |
@@ -74,6 +69,8 @@
 
 </tr>
 </table>
+
+</div>
  <br>
 
  <hr>
