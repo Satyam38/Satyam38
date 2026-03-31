@@ -26,7 +26,7 @@
 
  <div align="center" >
 
-<img align="right" width="500" valign="middle" height="550" src="video.gif" alt="Coding Animation">
+<img align="right" width="500" valign="middle" height="500" src="video.gif" alt="Coding Animation">
 
   <span align="left">
   <p align="left"><strong>About Me :</strong></p>
