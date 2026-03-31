@@ -16,13 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=satyam868910&label=GitHub+Views&color=0d1117&style=for-the-badge" alt="Views">
 </p>
 
- <h1 align="left">
+ <p align="left">
 <!-- <img align="right" alt="Coding" width="100" src=""> -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=500&color=F59E0B&&width=500&lines=Hello+%E2%9C%8C%EF%B8%8F+I+am+Satyam+%F0%9F%98%88" alt="Typing SVG" />
 </a>
-</h1>
- <br>
+</p>
 
 <div align="center">
 
@@ -33,13 +32,16 @@
 
 <strong>About Me :</strong>
 
-<br><br>
+💻 Web Developer @ EduPlanet 🚀
 
-💻 Web Developer @ EduPlanet 🚀  
-⚡ Crafting scalable apps with <b>React.js & Node.js</b>  
-🧠 DSA enthusiast & problem solver  
-🏆 CodeChef 4⭐ | AIR 165 – Coding Ninjas World Cup  
+⚡ Crafting scalable apps with <b>React.js & Node.js</b> 
+
+🧠 DSA enthusiast & problem solver
+
+🏆 CodeChef 4⭐ | AIR 165 – Coding Ninjas World Cup
+
 🌍 Open Source Explorer | Lifelong Learner  
+
 🎧 Music + Long Drives = Peace 🚗
 
 </td>
@@ -72,8 +74,6 @@
 
 </div>
  <br>
-
- <hr>
 
 <div align="center">
 <br>
