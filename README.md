@@ -32,7 +32,7 @@
 
 <strong>About Me :</strong>
 
-💻 Web Developer @ EduPlanet 🚀
+💻 Senior Web Developer @EduPlanet 🚀
 
 ⚡ Crafting scalable apps with <b>React.js & Node.js</b> 
 
