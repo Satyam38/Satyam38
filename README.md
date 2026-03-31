@@ -24,16 +24,19 @@
 </h1>
  <br>
 
- <div align="center" >
+<table>
+<tr>
 
-<img align="right" width="500" valign="middle" src="video.gif" alt="Coding Animation">
+<!-- LEFT SIDE (About Me) -->
+<td width="50%" valign="top">
 
-  <span align="left">
-  <p align="left"><strong>About Me :</strong></p>
+<strong>About Me :</strong>
+
+
 
 💻 Web Developer @ EduPlanet 🚀  
 
-⚡ Crafting scalable apps with **React.js & Node.js**  
+⚡ Crafting scalable apps with <b>React.js & Node.js</b>  
 
 🧠 DSA enthusiast & problem solver  
 
@@ -43,8 +46,34 @@
 
 🎧 Music + Long Drives = Peace 🚗
 
- </span>
- </div>
+</td>
+
+<!-- RIGHT SIDE (ASCII DESIGN) -->
+<td width="50%" align="center">
+
+<pre>
+            _____________________________
+           /                            /|
+          /     💻 DEVELOPMENT MODE    / |
+         /____________________________/  |
+        |                            |   |
+        |   👨‍💻 Satyam @ work         |   |
+        |   ───────────────────      |   |
+        |   > initializing app...   |   |
+        |   > compiling code... ⚙️  |   |
+        |   > running build... 🚀   |   |
+        |   > deployed successfully |   |
+        |                            |  /
+        |____________________________| /
+        (____________________________)/
+             / /            \ \
+            /_/              \_\
+</pre>
+
+</td>
+
+</tr>
+</table>
  <br>
 
  <hr>
