@@ -19,7 +19,7 @@
  <h1 align="left">
 <!-- <img align="right" alt="Coding" width="100" src=""> -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=500&color=F59E0B&&width=500&lines=Hello+%E2%9C%8C%EF%B8%8F+I+am+Satyam+coder+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=500&color=F59E0B&&width=500&lines=Hello+%E2%9C%8C%EF%B8%8F+I+am+Satyam+%F0%9F%98%88" alt="Typing SVG" />
 </a>
 </h1>
  <br>
